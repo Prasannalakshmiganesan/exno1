@@ -87,8 +87,6 @@ df.iloc[:4]
 ```
 ![image](https://github.com/Prasannalakshmiganesan/exno1/assets/118610231/9c2f288f-6d63-4d93-87f7-14bbedaf2750)
 
-```
-
 ### IQR
 
 ```
