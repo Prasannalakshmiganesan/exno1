@@ -21,8 +21,8 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 ```
-NAME: VARSHINI S A
-REGNO: 212222100059
+Developed By : Prasannalakshmi G
+Reg No: 212222240075
 ```
 ### DATA CLEANING
 ```
